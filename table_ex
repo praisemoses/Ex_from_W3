@@ -1,0 +1,17 @@
+<!Doctype html> 
+<html>
+<head> 
+</head> 
+<body> 
+  <table>
+    <tr>
+      <td>Name</td>
+      <td>Age</td>  
+    </tr>
+    <tr>
+      <td>Jill Smith</td>
+      <td>50</td>
+    </tr>
+  </table>
+</body>
+</html>
