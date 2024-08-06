@@ -15,14 +15,38 @@
   </table>
   <p> This is pratice page for all my W3school HTML exercises</p>
   <a href="https://www.w3schools.com"> This is the link for W3 schools</a>
-  <h1> This is a H1 heading </h1>
-  <h2> This is a H2 heading </h2>
-  <h3> This is a H3 heading </h3>
-  <h4> This is a H4 heading </h4>
-  <h5> This is a H5 heading </h5>
-  <h6> This is a H6 heading </h6>
-  <p> That is all the headings </p>
-  <p title="About W3Schools"> W3Schools is a web developer's site. </p>
-  <img
+  <h1> 
+    This is a H1 heading 
+  </h1>
+  <hr>
+  <h2> 
+    This is a H2 heading 
+  </h2>
+  <hr>
+  <h3> 
+    This is a H3 heading 
+  </h3>
+  <hr>
+  <h4> 
+    This is a H4 heading 
+  </h4>
+  <hr>
+  <h5> 
+    This is a H5 heading 
+  </h5>
+  <hr>
+  <h6> 
+    This is a H6 heading 
+  </h6>
+  <hr>
+  <p> 
+    Those are all the headings
+  </p>
+  <p title="About W3Schools"> 
+    W3Schools is a web developer's site.
+  </p>
+  <img src="d:\Images\bunny with headphones.htm" width="250px" height="400px"; 
+  alt="White bunny with headphones">
+
 </body>
 </html>
