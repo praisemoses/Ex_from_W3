@@ -1,8 +1,13 @@
 <!Doctype html> 
 <html>
+  <link rel='stylesheet' href='style.css'>
 <head> 
 </head> 
-<body> 
+<style>
+  body {background-color:tomato;}
+  section {border:1px solid black;}
+</style>
+<body>
   <table>
     <tr>
       <td>Name</td>
@@ -13,40 +18,78 @@
       <td>50</td>
     </tr>
   </table>
-  <p> This is pratice page for all my W3school HTML exercises</p>
-  <a href="https://www.w3schools.com"> This is the link for W3 schools</a>
-  <h1> 
-    This is a H1 heading 
-  </h1>
-  <hr>
-  <h2> 
-    This is a H2 heading 
-  </h2>
-  <hr>
-  <h3> 
-    This is a H3 heading 
-  </h3>
-  <hr>
-  <h4> 
-    This is a H4 heading 
-  </h4>
-  <hr>
-  <h5> 
-    This is a H5 heading 
-  </h5>
-  <hr>
-  <h6> 
-    This is a H6 heading 
-  </h6>
-  <hr>
   <p> 
-    Those are all the headings
+    <strong>
+      This is pratice page for all my 
+      <mark>W<sub>3</sub>school</mark> 
+      HTML exercises
+    </strong>
   </p>
-  <p title="About W3Schools"> 
-    W3Schools is a web developer's site.
+  <a href="https://www.w3schools.com"> This is the link for W3 schools</a>
+  <section style="text-align:center">
+    <h1> 
+      This is a H1 heading 
+    </h1>
+    <hr>
+    <h2> 
+      This is a H2 heading 
+    </h2>
+    <hr>
+    <h3> 
+      This is a H3 heading 
+    </h3>
+    <hr>
+    <h4> 
+      This is a H4 heading 
+    </h4>
+    <hr>
+    <h5> 
+      This is a H5 heading 
+    </h5>
+    <hr>
+    <h6> 
+      This is a H6 heading 
+    </h6>
+    <hr>
+  </section>
+  <p style="font-size:30px;"> 
+    <em>Those are all the headings</em>
   </p>
-  <img src="d:\Images\bunny with headphones.htm" width="250px" height="400px"; 
-  alt="White bunny with headphones">
-
+  <p title="About W3Schools" style="font-size:50px;"> 
+    <b>W3Schools is a web developer's site.</b>
+  </p>
+  <img src="download.jpeg" width="250px" height="400px"
+  alt="Bunny w/ headphones, IDK why it isn't loading">
+  <p>
+    <del>This is striken out</del>
+  </p>
+  <p> 
+    Two types of quotes <q>normal quote</q> anddddd...
+  </p>
+  <blockquote cite="http://www.worldwildlife.org/who/index.html" 
+  style="color:white">
+    For 50 years, WWF has been protecting the future of nature.
+    The world's leading conservation organization,
+    WWF works in 100 countries and is supported by
+    1.2 million members in the United States and
+    close to 5 million globally."
+    -and blockquote 
+  </blockquote>
+  <p>
+    <bdo dir="ltr">
+      This makes it left to right
+    </bdo>
+    <br>
+    <bdo dir="rtl"> 
+      This is right to left backwords
+    </bdo>
+  </p>
+  <p> 
+    The <abbr title="World Health Organization">
+      WHO
+    </abbr> was founded in 1948
+  </p>
+  <!-- This is a comment and It can't be seen-->
+  <!--This is a actualization of the HTML exercises in W3 schools-->
 </body>
 </html>
